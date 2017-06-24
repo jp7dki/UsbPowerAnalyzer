@@ -1,2 +1,6 @@
-test
-setr
+#include <stdio.h>
+
+void main(void)
+{
+	printf("test");
+}
